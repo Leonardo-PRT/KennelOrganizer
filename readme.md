@@ -44,3 +44,6 @@ kennelOrganizer funciona com várias tecnologias supermaneiras!
   - Lucas
     - [GitHub](https://github.com/LucasRelva) 
     - [Linkedin](https://www.linkedin.com/in/lucasrelva/)
+ 
+# Explaining the project
+  - KennelOrganizer is a project for breeding dogs and kennels and management of these dogs in the kennels. We made this project for the final project of cs50, but also with the intention of helping the city hall of Santa Catarina, a Brazilian state, we made it open source with the intention of helping anyone who needs this system as help, We really enjoyed doing this project because not only will it help the state of Santa Cantarina, but it can also help other people around the world
